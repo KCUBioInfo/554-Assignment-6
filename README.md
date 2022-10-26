@@ -1,8 +1,5 @@
 # 551-Assignment-6
 
-## Assignment 6: Motifs
-
- 
 
 ## Problem 1: Brute Force (15 pts)
 
