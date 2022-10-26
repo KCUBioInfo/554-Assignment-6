@@ -21,5 +21,5 @@ Write a function named randomized_motif_search(dna,k) that implements the Random
 
 ## Problem 4: Gibbs Sampler (15 pts)
 
-Write a function named gibbs_sampler() that implements the Gibbs Sampling algorithm (textbook p. 101) for motif finding. Be sure to use LaPlace Succession when calculating counts, profile, and score. Note that the argument *t* in the pseudocode refers to len(dna).
+Write a function named gibbs_sampler(dna, k) that implements the Gibbs Sampling algorithm (textbook p. 101) for motif finding. Be sure to use LaPlace Succession when calculating counts, profile, and score. Note that the argument *t* in the pseudocode refers to len(dna).
 
