@@ -9,16 +9,17 @@ Write a function named median_string(dna,k) that takes in a set of dna sequence 
 
 ## Problem 2: Greedy Algorithm (15 pts)
 
-Write a function named greedy_motif_search(dna, k) that implements the GreedyMotifSearch pseudocode on p. 86 of the textbook. Be sure to use LaPlace Succession when calculating counts, profile, and score. Note that the argument **t** in the pseudocode refers to len(dna).
+Write a function named greedy_motif_search(dna, k) that implements the GreedyMotifSearch pseudocode on p. 86 of the textbook. Be sure to use LaPlace Succession when calculating counts, profile, and score. Note that the argument *t* in the pseudocode refers to len(dna).
 
  
 
 ## Problem 3: Random Algorithm (15 pts)
 
-Write a function named randomized_motif_search(dna,k) that implements the RandomizedMotifSearch pseudocode on p. 94 of the textbook. Be sure to use LaPlace Succession when calculating counts, profile, and score.
+Write a function named randomized_motif_search(dna,k) that implements the RandomizedMotifSearch pseudocode on p. 94 of the textbook. Be sure to use LaPlace Succession when calculating counts, profile, and score. Note that the argument *t* in the pseudocode refers to len(dna).
 
  
 
 ## Problem 4: Gibbs Sampler (15 pts)
 
-Write a function named gibbs_sampler() that implements the Gibbs Sampling algorithm (textbook p. 101) for motif finding. Be sure to use LaPlace Succession when calculating counts, profile, and score.
+Write a function named gibbs_sampler() that implements the Gibbs Sampling algorithm (textbook p. 101) for motif finding. Be sure to use LaPlace Succession when calculating counts, profile, and score. Note that the argument *t* in the pseudocode refers to len(dna).
+
