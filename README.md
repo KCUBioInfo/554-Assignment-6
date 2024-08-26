@@ -1,4 +1,4 @@
-# 551-Assignment-6
+# 554-Assignment-6
 
 
 ## Problem 1: Brute Force (15 pts)
